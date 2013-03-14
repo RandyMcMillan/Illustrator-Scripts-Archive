@@ -1,7 +1,7 @@
 # Scripts for Adobe Illustrator
 
 JavaScript scripts for Adobe Illustrator CSx.  
-Test environment: Adobe Illustrator CS3, CS6 (Windows) 
+Test environment: Adobe Illustrator CS3, CS6 (Windows,OSX) 
 
 
 
